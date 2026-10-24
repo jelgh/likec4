@@ -5,6 +5,7 @@
     "generate": {
       "dependsOn": [],
       "outputs": [
+        "md/**",
         "*/*.js",
         "*/*.ts",
         "all.js",
